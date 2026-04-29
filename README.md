@@ -1,6 +1,4 @@
-<h1>Hi, I'm Gunel 👋</h1>
-
-<p><b>SQL & PL/SQL Developer | Data Analyst</b></p>
+<h1>Hi, I'm Gunel! <br/><a href="https://github.com/gunelmusayeva1">SQL & PL/SQL Developer | Data Analyst </a>
 
 <p>I have been learning and improving myself in Oracle SQL and PL/SQL for 3 years.
 I enjoy solving real-life business problems with data — writing analytical queries, building PL/SQL systems, and visualizing results.</p>
