@@ -30,7 +30,7 @@ I enjoy solving real-life business problems with data — writing analytical que
     <td>19 analytical queries on Oracle HR Schema database</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gunelmusayeva1/amazon-sql-analytics">🛒 Amazon SQL Analytics</a></td>
+    <td><a href="https://github.com/gunelmusayeva1/oracle-sql-amazon-analytics">🛒 Amazon SQL Analytics</a></td>
     <td>Oracle SQL, CTE, Window Functions</td>
     <td>10 analytical queries on Amazon e-commerce dataset</td>
   </tr>
