@@ -25,7 +25,7 @@ I enjoy solving real-life business problems with data — writing analytical que
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/gunelmusayeva1/oracle-hr-analytics">🏢 Oracle HR Analytics</a></td>
+    <td><a href="https://github.com/gunelmusayeva1/oracle-sql-hr-analytics">🏢 Oracle HR Analytics</a></td>
     <td>Oracle SQL, Window Functions</td>
     <td>19 analytical queries on Oracle HR Schema database</td>
   </tr>
