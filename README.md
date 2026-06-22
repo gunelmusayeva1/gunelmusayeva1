@@ -41,6 +41,11 @@ I enjoy solving real-life business problems with data — writing analytical que
     <td>Power BI, DAX</td>
     <td>Interactive 5-page sales dashboard with regional and category analysis</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/gunelmusayeva1/oracle-sql-northwind-analytics">📦 Northwind Traders SQL Analytics</a></td>
+    <td>Oracle SQL, CTE, Window Functions</td>
+    <td>11 analytical queries: RFM segmentation, ABC analysis, sales hierarchy & revenue trends</td>
+  </tr>
 </table>
 
 ---
